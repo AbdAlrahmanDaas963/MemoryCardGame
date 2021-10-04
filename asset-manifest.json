@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/MemoryCardGame/static/css/main.b44fdf11.chunk.css",
-    "main.js": "/MemoryCardGame/static/js/main.f578a2f8.chunk.js",
-    "main.js.map": "/MemoryCardGame/static/js/main.f578a2f8.chunk.js.map",
-    "runtime-main.js": "/MemoryCardGame/static/js/runtime-main.753dc35d.js",
-    "runtime-main.js.map": "/MemoryCardGame/static/js/runtime-main.753dc35d.js.map",
-    "static/js/2.02b4b31e.chunk.js": "/MemoryCardGame/static/js/2.02b4b31e.chunk.js",
-    "static/js/2.02b4b31e.chunk.js.map": "/MemoryCardGame/static/js/2.02b4b31e.chunk.js.map",
-    "static/js/3.863d0b07.chunk.js": "/MemoryCardGame/static/js/3.863d0b07.chunk.js",
-    "static/js/3.863d0b07.chunk.js.map": "/MemoryCardGame/static/js/3.863d0b07.chunk.js.map",
+    "main.css": "/MemoryCardGame/static/css/main.e41649c0.chunk.css",
+    "main.js": "/MemoryCardGame/static/js/main.cb66c94e.chunk.js",
+    "main.js.map": "/MemoryCardGame/static/js/main.cb66c94e.chunk.js.map",
+    "runtime-main.js": "/MemoryCardGame/static/js/runtime-main.84771af4.js",
+    "runtime-main.js.map": "/MemoryCardGame/static/js/runtime-main.84771af4.js.map",
+    "static/js/2.7a8470c6.chunk.js": "/MemoryCardGame/static/js/2.7a8470c6.chunk.js",
+    "static/js/2.7a8470c6.chunk.js.map": "/MemoryCardGame/static/js/2.7a8470c6.chunk.js.map",
+    "static/js/3.bbae55bf.chunk.js": "/MemoryCardGame/static/js/3.bbae55bf.chunk.js",
+    "static/js/3.bbae55bf.chunk.js.map": "/MemoryCardGame/static/js/3.bbae55bf.chunk.js.map",
     "index.html": "/MemoryCardGame/index.html",
-    "static/css/main.b44fdf11.chunk.css.map": "/MemoryCardGame/static/css/main.b44fdf11.chunk.css.map",
-    "static/js/2.02b4b31e.chunk.js.LICENSE.txt": "/MemoryCardGame/static/js/2.02b4b31e.chunk.js.LICENSE.txt"
+    "static/css/main.e41649c0.chunk.css.map": "/MemoryCardGame/static/css/main.e41649c0.chunk.css.map",
+    "static/js/2.7a8470c6.chunk.js.LICENSE.txt": "/MemoryCardGame/static/js/2.7a8470c6.chunk.js.LICENSE.txt",
+    "static/media/front1.c9c46cf8.png": "/MemoryCardGame/static/media/front1.c9c46cf8.png",
+    "static/media/front2.27acaba7.png": "/MemoryCardGame/static/media/front2.27acaba7.png",
+    "static/media/front3.591a8862.png": "/MemoryCardGame/static/media/front3.591a8862.png",
+    "static/media/front4.15ee881a.png": "/MemoryCardGame/static/media/front4.15ee881a.png",
+    "static/media/front5.2fc800c0.png": "/MemoryCardGame/static/media/front5.2fc800c0.png",
+    "static/media/front6.846fd83e.png": "/MemoryCardGame/static/media/front6.846fd83e.png",
+    "static/media/front7.695bd434.png": "/MemoryCardGame/static/media/front7.695bd434.png",
+    "static/media/front8.2f07d8c7.png": "/MemoryCardGame/static/media/front8.2f07d8c7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.753dc35d.js",
-    "static/js/2.02b4b31e.chunk.js",
-    "static/css/main.b44fdf11.chunk.css",
-    "static/js/main.f578a2f8.chunk.js"
+    "static/js/runtime-main.84771af4.js",
+    "static/js/2.7a8470c6.chunk.js",
+    "static/css/main.e41649c0.chunk.css",
+    "static/js/main.cb66c94e.chunk.js"
   ]
 }
